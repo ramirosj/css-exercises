@@ -1,0 +1,19 @@
+.impar  {
+    background-color: rgb(233, 158, 193);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+    }
+
+#n2     {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+    }
+
+.n3     {
+    font-size: 24px;
+}
+
+#n4     {
+    background-color: rgb(140, 231, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
